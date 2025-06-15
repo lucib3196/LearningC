@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/lberm/OneDrive/Documents/Github/LearningC/Chapter1/BasicInputMath",
-      "program": "c:/Users/lberm/OneDrive/Documents/Github/LearningC/Chapter1/BasicInputMath/build/Debug/outDebug",
+      "cwd": "c:/Users/lberm/OneDrive/Documents/Github/LearningC/Chapter O/BitManipulation3",
+      "program": "c:/Users/lberm/OneDrive/Documents/Github/LearningC/Chapter O/BitManipulation3/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
